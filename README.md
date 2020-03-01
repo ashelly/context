@@ -1,2 +1,2 @@
-# context
+# libContext
 CONfiguration TEXT file parser
