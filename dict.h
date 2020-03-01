@@ -93,8 +93,6 @@ typedef khash_t(ptr) dict_t;
     } \
   }
 
-
-
 // protos
 
 void
